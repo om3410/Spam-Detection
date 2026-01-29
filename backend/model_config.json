@@ -1,0 +1,20 @@
+{
+  "model_info": {
+    "name": "Spam Detection Model",
+    "version": "1.0",
+    "created": "2026-01-25 10:18:28",
+    "models_trained": [
+      "naive_bayes",
+      "logistic_regression"
+    ],
+    "best_model": "naive_bayes",
+    "accuracy": 0.8214285714285714
+  },
+  "dataset_info": {
+    "total_samples": 279,
+    "ham_count": 189,
+    "spam_count": 90,
+    "training_samples": 223,
+    "testing_samples": 56
+  }
+}
